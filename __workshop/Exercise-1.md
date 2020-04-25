@@ -117,7 +117,7 @@ Lines 2 - 7 are variables that contain styling data so that they can be referred
 Line `16`. See if by searching the Sass documentation, you can determine what _exactly_ is going on here. That `#{}` notation very specific to this use-case. Why?
 
 ```
-It allows the variable inside the curly brackets to converted into a numerical value. It is necessary because css is not able to to these types of actions. 
+It allows the variable inside the curly brackets to converted into a numerical value. It is necessary because css is not able to to these types of actions.   
 
 ```
 
